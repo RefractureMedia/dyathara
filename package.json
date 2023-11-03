@@ -1,0 +1,9 @@
+{
+  "name": "dyathara-root",
+  "private": "true",
+  "scripts": {},
+  "dependencies": {
+    "@types/fs-extra": "^11.0.3",
+    "fs-extra": "^11.1.1"
+  }
+}
